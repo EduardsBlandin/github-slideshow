@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hm, <h3>, is that working.
 Use the left arrow to go back!
